@@ -1,0 +1,15 @@
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\bin\Debug\net6.0\Proje.exe
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\bin\Debug\net6.0\Proje.deps.json
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\bin\Debug\net6.0\Proje.runtimeconfig.json
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\bin\Debug\net6.0\Proje.dll
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\bin\Debug\net6.0\Proje.pdb
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.csproj.AssemblyReference.cache
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.AssemblyInfoInputs.cache
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.AssemblyInfo.cs
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.csproj.CoreCompileInputs.cache
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.dll
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\refint\Proje.dll
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.pdb
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\Proje.genruntimeconfig.cache
+C:\Users\enisa\OneDrive\Masaüstü\c#\Proje\Proje\obj\Debug\net6.0\ref\Proje.dll
